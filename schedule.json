@@ -1,0 +1,13 @@
+{
+  "December1stweek" : [
+    {
+    "Sunday" : "noSchool",
+    "Monday" : "normal",
+    "Tuesday": "normal",
+    "Wedensday": "normal",
+    "Thursday": "normal",
+    "Friday" : "normal",
+    "Saturday" : "noSchool"
+    }
+    ]
+}
