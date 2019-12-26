@@ -7,7 +7,7 @@
     "Wedensday": "normal",
     "Thursday": "normal",
     "Friday" : "normal",
-    "Saturday" : "School"
+    "Saturday" : "noSchool"
     }
     ]
 }
