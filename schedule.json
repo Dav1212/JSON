@@ -1,6 +1,4 @@
 {
-  "December1stweek" : [
-    {
     "Sunday" : "noSchool",
     "Monday" : "normal",
     "Tuesday": "normal",
@@ -8,6 +6,4 @@
     "Thursday": "normal",
     "Friday" : "normal",
     "Saturday" : "noSchool"
-    }
-    ]
 }
