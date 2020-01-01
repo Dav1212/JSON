@@ -1,0 +1,26 @@
+Options
+
+Don't misspell
+
+normal
+noSchool
+smartAndPLC
+twoHourDelay
+noSmartAndPLC
+twoHourDelayAndPLC
+PMAssembly
+smartAndNoEarly
+morningPSAT
+FiftyFiveminSmartPLC
+seventhPeriodFinal
+finalsWeekFirst
+finalsWeekSecond
+finalsWeekThird
+firstDaySchedule
+secondDaySchedule
+autonomousFestival
+test
+
+
+
+
