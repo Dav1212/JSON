@@ -3,7 +3,7 @@
     "Monday" : "normal",
     "Tuesday": "normal",
     "Wednesday": "normal",
-    "Thursday": "smartAndPLC",
+    "Thursday": "twoHourDelay",
     "Friday" : "nosmartAndPLC",
     "Saturday" : "twoHourDelay"
 }
