@@ -1,9 +1,9 @@
 {
-    "Sunday" : "smartAndNoEarly",
-    "Monday" : "normal",
+    "Sunday" : "noSchool",
+    "Monday" : "smartAndPLC",
     "Tuesday": "normal",
     "Wednesday": "normal",
-    "Thursday": "twoHourDelay",
-    "Friday" : "nosmartAndPLC",
-    "Saturday" : "twoHourDelay"
+    "Thursday": "normal",
+    "Friday" : "normal",
+    "Saturday" : "noSchool"
 }
